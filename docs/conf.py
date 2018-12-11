@@ -21,7 +21,7 @@
 
 project = u'forkwork'
 copyright = u'2018, kinch'
-author = u'kinch'
+author = u'kevin'
 
 # The short X.Y version
 version = u''
