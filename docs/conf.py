@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'forkwork'
-copyright = u'2018, kinch'
+copyright = u'2018, kevin'
 author = u'kevin'
 
 # The short X.Y version
