@@ -12,8 +12,8 @@ Welcome to forkwork's documentation!
 
 
 
-Indices and 13 tables
-=====================
+Indices and tables
+==================
 
 * :ref:`genindex`
 * :ref:`modindex`
